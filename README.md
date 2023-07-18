@@ -1,5 +1,5 @@
 # University-Registration-System
-CPS 510 Database assignment done in oracle sql, along with .sh files
+Database Project done in oracle sql, along with .sh files
 ----------------------------------------------------------------------
 
 Within the Project checkpoints file is a list of all of the assignments that needed to be complete. Along with the completed files in the assignment folder.
